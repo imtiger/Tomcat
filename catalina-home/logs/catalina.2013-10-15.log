@@ -1,0 +1,126 @@
+2013-10-15 10:31:52 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/IntelliJ IDEA 11.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+2013-10-15 10:31:52 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+2013-10-15 10:31:52 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+2013-10-15 10:31:52 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 622 ms
+2013-10-15 10:31:52 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+2013-10-15 10:31:52 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/@VERSION@
+2013-10-15 10:31:52 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/docs
+2013-10-15 10:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/examples
+2013-10-15 10:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/host-manager
+2013-10-15 10:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/manager
+2013-10-15 10:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/ROOT
+2013-10-15 10:31:53 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+2013-10-15 10:31:53 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+2013-10-15 10:31:53 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1011 ms
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+2013-10-15 10:38:50 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+2013-10-15 10:38:50 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 2:40:30 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/IntelliJ IDEA 11.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 15, 2013 2:48:07 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 2:48:14 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 2:48:34 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1003158 ms
+Oct 15, 2013 2:49:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 15, 2013 2:50:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+Oct 15, 2013 2:50:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/docs
+Oct 15, 2013 2:50:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/examples
+Oct 15, 2013 2:50:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/host-manager
+Oct 15, 2013 2:50:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/manager
+Oct 15, 2013 2:50:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/ROOT
+Oct 15, 2013 2:51:40 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 2:51:41 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 2:51:56 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 160150 ms
+Oct 15, 2013 2:57:27 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/IntelliJ IDEA 11.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 15, 2013 2:57:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 2:57:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 2:57:32 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 5290 ms
+Oct 15, 2013 2:57:34 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 15, 2013 2:57:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+Oct 15, 2013 2:57:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/docs
+Oct 15, 2013 2:57:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/examples
+Oct 15, 2013 2:57:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/host-manager
+Oct 15, 2013 2:57:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/manager
+Oct 15, 2013 2:57:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/ROOT
+Oct 15, 2013 2:57:35 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 3:01:20 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 3:01:36 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 241543 ms
+Oct 15, 2013 10:07:35 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/IntelliJ IDEA 11.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 15, 2013 10:07:36 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 10:07:36 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 10:07:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1881 ms
+Oct 15, 2013 10:07:36 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 15, 2013 10:07:36 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+Oct 15, 2013 10:07:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/docs
+Oct 15, 2013 10:07:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/examples
+Oct 15, 2013 10:07:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/host-manager
+Oct 15, 2013 10:07:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/manager
+Oct 15, 2013 10:07:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/data/Users/tiger/develop/java/Tomcat/catalina-home/webapps/ROOT
+Oct 15, 2013 10:07:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 15, 2013 10:07:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 15, 2013 10:07:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2521 ms
